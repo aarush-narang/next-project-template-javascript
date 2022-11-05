@@ -1,0 +1,28 @@
+Packages:
+
+-   tailwindcss
+-   postcss
+-   autoprefixer
+-   mantine
+-   swr
+-   eslint
+-   prettier
+-   eslint-config-airbnb-base
+-   eslint-config-next
+-   eslint-plugin-import
+-   @mantine/core
+-   @mantine/hooks
+-   @mantine/form
+-   @mantine/dates
+-   dayjs
+-   @mantine/notifications
+-   @mantine/prism
+-   @mantine/rte
+-   @mantine/dropzone
+-   @mantine/carousel
+-   embla-carousel-react
+-   @mantine/spotlight
+-   @mantine/modals
+-   @mantine/nprogress
+-   @emotion/react
+-   prop-types
